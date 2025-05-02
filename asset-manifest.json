@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foodhouse-euro/static/css/main.32584ee7.css",
+    "main.js": "/foodhouse-euro/static/js/main.9d984c34.js",
+    "index.html": "/foodhouse-euro/index.html",
+    "main.32584ee7.css.map": "/foodhouse-euro/static/css/main.32584ee7.css.map",
+    "main.9d984c34.js.map": "/foodhouse-euro/static/js/main.9d984c34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32584ee7.css",
+    "static/js/main.9d984c34.js"
+  ]
+}
